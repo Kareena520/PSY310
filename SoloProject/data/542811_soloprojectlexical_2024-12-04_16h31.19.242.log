@@ -1,0 +1,1245 @@
+7.8535 	INFO 	Loaded monitor calibration from ['2024_08_16 01:13']
+7.8696 	WARNING 	User requested fullscreen with size [1024  768], but screen is actually [1920, 1080]. Using actual size
+8.2294 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x0000015E5E70AFE0>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x0000015E5E70B100>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x0000015E5E70B2B0>, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x0000015E5D961C60>, multiSample=False, name='window1', numSamples=2, pos=[0.0, 0.0], screen=0, size=array([1920, 1080]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+8.2295 	EXP 	window1: backgroundImage = ''
+8.2295 	EXP 	window1: backgroundFit = 'none'
+8.2301 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x0000015E5E70A2C0>
+8.2304 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x0000015E5E70A2C0>
+8.2361 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x0000015E5E70A2C0>
+8.2370 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x0000015E5E70A2C0>
+8.2909 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x0000015E5E70A2C0>
+8.2910 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x0000015E5E70A2C0>
+8.2915 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x0000015E5E70A2C0>
+8.2919 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x0000015E5E70A2C0>
+8.3185 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+8.3185 	EXP 	window1: recordFrameIntervals = False
+8.4797 	EXP 	window1: recordFrameIntervals = True
+8.6634 	EXP 	Screen (0) actual frame rate measured at 60.05Hz
+8.6634 	EXP 	window1: recordFrameIntervals = False
+8.6636 	EXP 	window1: mouseVisible = False
+11.4006 	INFO 	keyboard.Keyboard is using iohub backend.
+11.4007 	INFO 	keyboard.Keyboard is using iohub backend.
+11.4007 	INFO 	keyboard.Keyboard is using iohub backend.
+11.4007 	EXP 	soloprojectlexical: status = STARTED
+11.4011 	EXP 	window1: mouseVisible = False
+11.5366 	EXP 	Created text_4 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_4', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+11.5368 	EXP 	window1: mouseVisible = False
+11.5428 	EXP 	Created fixation = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=0.0, draggable=False, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1.0, name='fixation', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.03, 0.03]), units='height', vertices=ndarray(...), win=Window(...), windingRule=None)
+11.5429 	EXP 	window1: mouseVisible = False
+11.5441 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+11.5442 	EXP 	window1: mouseVisible = False
+11.5496 	EXP 	Created text_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-3.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_2', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='<- non-words              words ->', units='height', win=Window(...), wrapWidth=1)
+11.5497 	EXP 	window1: mouseVisible = False
+11.5545 	EXP 	Created text_3 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_3', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='Thank you for participating!', units='height', win=Window(...), wrapWidth=1)
+0.0066 	INFO 	Keyboard events cleared
+0.0062 	EXP 	text_4: autoDraw = True
+1.4076 	EXP 	Imported conds.xlsx as conditions, 80 conditions, 3 params
+1.4087 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'words': 'factor', 'number_of_letters': 6, 'corrAns': 'right', 'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+1.4140 	DATA 	Keypress: space
+1.4165 	EXP 	text_4: autoDraw = False
+1.4165 	EXP 	text: height = 0.05
+1.4165 	EXP 	text: height = 0.05
+1.4165 	EXP 	text: height = 0.05
+1.4165 	EXP 	text: text = 'factor'
+1.4165 	EXP 	fixation: autoDraw = True
+1.4165 	EXP 	text_2: autoDraw = True
+2.4092 	INFO 	Keyboard events cleared
+2.4086 	EXP 	text: autoDraw = True
+2.4251 	EXP 	fixation: autoDraw = False
+2.4251 	EXP 	text_2: autoDraw = False
+3.5763 	EXP 	New trial (rep=0, index=1): <Trial 1 (1 in rep 0) data={'words': 'decade', 'number_of_letters': 6, 'corrAns': 'right', 'thisN': 1, 'thisTrialN': 1, 'thisRepN': 0}>
+3.5803 	DATA 	Keypress: right
+3.5916 	EXP 	fixation: autoDraw = False
+3.5916 	EXP 	text: autoDraw = False
+3.5916 	EXP 	text_2: autoDraw = False
+3.5916 	EXP 	text: height = 0.05
+3.5916 	EXP 	text: height = 0.05
+3.5916 	EXP 	text: height = 0.05
+3.5916 	EXP 	text: text = 'decade'
+3.5916 	EXP 	fixation: autoDraw = True
+3.5916 	EXP 	text_2: autoDraw = True
+4.5924 	INFO 	Keyboard events cleared
+4.5919 	EXP 	fixation: autoDraw = False
+4.5919 	EXP 	text: autoDraw = True
+4.5919 	EXP 	text_2: autoDraw = False
+5.7445 	EXP 	New trial (rep=0, index=2): <Trial 2 (2 in rep 0) data={'words': 'fector', 'number_of_letters': 6, 'corrAns': 'left', 'thisN': 2, 'thisTrialN': 2, 'thisRepN': 0}>
+5.7533 	DATA 	Keypress: right
+5.7584 	EXP 	fixation: autoDraw = False
+5.7584 	EXP 	text: autoDraw = False
+5.7584 	EXP 	text_2: autoDraw = False
+5.7584 	EXP 	text: height = 0.05
+5.7584 	EXP 	text: height = 0.05
+5.7584 	EXP 	text: height = 0.05
+5.7584 	EXP 	text: text = 'fector'
+5.7584 	EXP 	fixation: autoDraw = True
+5.7584 	EXP 	text_2: autoDraw = True
+6.7592 	INFO 	Keyboard events cleared
+6.7585 	EXP 	fixation: autoDraw = False
+6.7585 	EXP 	text: autoDraw = True
+6.7585 	EXP 	text_2: autoDraw = False
+7.3432 	EXP 	New trial (rep=0, index=3): <Trial 3 (3 in rep 0) data={'words': 'program', 'number_of_letters': 7, 'corrAns': 'right', 'thisN': 3, 'thisTrialN': 3, 'thisRepN': 0}>
+7.3487 	DATA 	Keypress: left
+7.3580 	EXP 	fixation: autoDraw = False
+7.3580 	EXP 	text: autoDraw = False
+7.3580 	EXP 	text_2: autoDraw = False
+7.3580 	EXP 	text: height = 0.05
+7.3580 	EXP 	text: height = 0.05
+7.3580 	EXP 	text: height = 0.05
+7.3580 	EXP 	text: text = 'program'
+7.3580 	EXP 	fixation: autoDraw = True
+7.3580 	EXP 	text_2: autoDraw = True
+8.3588 	INFO 	Keyboard events cleared
+8.3582 	EXP 	fixation: autoDraw = False
+8.3582 	EXP 	text: autoDraw = True
+8.3582 	EXP 	text_2: autoDraw = False
+9.3617 	DATA 	Keypress: right
+9.3763 	EXP 	New trial (rep=0, index=4): <Trial 4 (4 in rep 0) data={'words': 'hour', 'number_of_letters': 4, 'corrAns': 'right', 'thisN': 4, 'thisTrialN': 4, 'thisRepN': 0}>
+9.3917 	EXP 	fixation: autoDraw = False
+9.3917 	EXP 	text: autoDraw = False
+9.3917 	EXP 	text_2: autoDraw = False
+9.3917 	EXP 	text: height = 0.05
+9.3917 	EXP 	text: height = 0.05
+9.3917 	EXP 	text: height = 0.05
+9.3917 	EXP 	text: text = 'hour'
+9.3917 	EXP 	fixation: autoDraw = True
+9.3917 	EXP 	text_2: autoDraw = True
+10.3923 	INFO 	Keyboard events cleared
+10.3918 	EXP 	fixation: autoDraw = False
+10.3918 	EXP 	text: autoDraw = True
+10.3918 	EXP 	text_2: autoDraw = False
+10.9931 	EXP 	New trial (rep=0, index=5): <Trial 5 (5 in rep 0) data={'words': 'importent', 'number_of_letters': 9, 'corrAns': 'left', 'thisN': 5, 'thisTrialN': 5, 'thisRepN': 0}>
+10.9978 	DATA 	Keypress: right
+11.0082 	EXP 	fixation: autoDraw = False
+11.0082 	EXP 	text: autoDraw = False
+11.0082 	EXP 	text_2: autoDraw = False
+11.0082 	EXP 	text: height = 0.05
+11.0082 	EXP 	text: height = 0.05
+11.0082 	EXP 	text: height = 0.05
+11.0082 	EXP 	text: text = 'importent'
+11.0082 	EXP 	fixation: autoDraw = True
+11.0082 	EXP 	text_2: autoDraw = True
+12.0090 	INFO 	Keyboard events cleared
+12.0083 	EXP 	fixation: autoDraw = False
+12.0083 	EXP 	text: autoDraw = True
+12.0083 	EXP 	text_2: autoDraw = False
+12.8096 	EXP 	New trial (rep=0, index=6): <Trial 6 (6 in rep 0) data={'words': 'especially', 'number_of_letters': 10, 'corrAns': 'right', 'thisN': 6, 'thisTrialN': 6, 'thisRepN': 0}>
+12.8139 	DATA 	Keypress: right
+12.8247 	EXP 	fixation: autoDraw = False
+12.8247 	EXP 	text: autoDraw = False
+12.8247 	EXP 	text_2: autoDraw = False
+12.8247 	EXP 	text: height = 0.05
+12.8247 	EXP 	text: height = 0.05
+12.8247 	EXP 	text: height = 0.05
+12.8247 	EXP 	text: text = 'especially'
+12.8247 	EXP 	fixation: autoDraw = True
+12.8247 	EXP 	text_2: autoDraw = True
+13.8251 	INFO 	Keyboard events cleared
+13.8245 	EXP 	fixation: autoDraw = False
+13.8245 	EXP 	text: autoDraw = True
+13.8245 	EXP 	text_2: autoDraw = False
+14.6259 	EXP 	New trial (rep=0, index=7): <Trial 7 (7 in rep 0) data={'words': 'mech', 'number_of_letters': 4, 'corrAns': 'left', 'thisN': 7, 'thisTrialN': 7, 'thisRepN': 0}>
+14.6308 	DATA 	Keypress: right
+14.6413 	EXP 	fixation: autoDraw = False
+14.6413 	EXP 	text: autoDraw = False
+14.6413 	EXP 	text_2: autoDraw = False
+14.6413 	EXP 	text: height = 0.05
+14.6413 	EXP 	text: height = 0.05
+14.6413 	EXP 	text: height = 0.05
+14.6413 	EXP 	text: text = 'mech'
+14.6413 	EXP 	fixation: autoDraw = True
+14.6413 	EXP 	text_2: autoDraw = True
+15.6422 	INFO 	Keyboard events cleared
+15.6415 	EXP 	fixation: autoDraw = False
+15.6415 	EXP 	text: autoDraw = True
+15.6415 	EXP 	text_2: autoDraw = False
+16.2772 	DATA 	Keypress: left
+16.2927 	EXP 	New trial (rep=0, index=8): <Trial 8 (8 in rep 0) data={'words': 'sistem', 'number_of_letters': 6, 'corrAns': 'left', 'thisN': 8, 'thisTrialN': 8, 'thisRepN': 0}>
+16.3078 	EXP 	fixation: autoDraw = False
+16.3078 	EXP 	text: autoDraw = False
+16.3078 	EXP 	text_2: autoDraw = False
+16.3078 	EXP 	text: height = 0.05
+16.3078 	EXP 	text: height = 0.05
+16.3078 	EXP 	text: height = 0.05
+16.3078 	EXP 	text: text = 'sistem'
+16.3078 	EXP 	fixation: autoDraw = True
+16.3078 	EXP 	text_2: autoDraw = True
+17.3088 	INFO 	Keyboard events cleared
+17.3080 	EXP 	fixation: autoDraw = False
+17.3080 	EXP 	text: autoDraw = True
+17.3080 	EXP 	text_2: autoDraw = False
+18.3255 	EXP 	New trial (rep=0, index=9): <Trial 9 (9 in rep 0) data={'words': 'way', 'number_of_letters': 3, 'corrAns': 'right', 'thisN': 9, 'thisTrialN': 9, 'thisRepN': 0}>
+18.3285 	DATA 	Keypress: left
+18.3412 	EXP 	fixation: autoDraw = False
+18.3412 	EXP 	text: autoDraw = False
+18.3412 	EXP 	text_2: autoDraw = False
+18.3412 	EXP 	text: height = 0.05
+18.3412 	EXP 	text: height = 0.05
+18.3412 	EXP 	text: height = 0.05
+18.3412 	EXP 	text: text = 'way'
+18.3412 	EXP 	fixation: autoDraw = True
+18.3412 	EXP 	text_2: autoDraw = True
+19.3249 	INFO 	Keyboard events cleared
+19.3244 	EXP 	text: autoDraw = True
+19.3413 	EXP 	fixation: autoDraw = False
+19.3413 	EXP 	text_2: autoDraw = False
+20.7421 	EXP 	New trial (rep=0, index=10): <Trial 10 (10 in rep 0) data={'words': 'including', 'number_of_letters': 9, 'corrAns': 'right', 'thisN': 10, 'thisTrialN': 10, 'thisRepN': 0}>
+20.7453 	DATA 	Keypress: right
+20.7577 	EXP 	fixation: autoDraw = False
+20.7577 	EXP 	text: autoDraw = False
+20.7577 	EXP 	text_2: autoDraw = False
+20.7577 	EXP 	text: height = 0.05
+20.7577 	EXP 	text: height = 0.05
+20.7577 	EXP 	text: height = 0.05
+20.7577 	EXP 	text: text = 'including'
+20.7577 	EXP 	fixation: autoDraw = True
+20.7577 	EXP 	text_2: autoDraw = True
+21.7585 	INFO 	Keyboard events cleared
+21.7580 	EXP 	fixation: autoDraw = False
+21.7580 	EXP 	text: autoDraw = True
+21.7580 	EXP 	text_2: autoDraw = False
+24.0092 	EXP 	New trial (rep=0, index=11): <Trial 11 (11 in rep 0) data={'words': 'question', 'number_of_letters': 8, 'corrAns': 'right', 'thisN': 11, 'thisTrialN': 11, 'thisRepN': 0}>
+24.0124 	DATA 	Keypress: left
+24.0244 	EXP 	fixation: autoDraw = False
+24.0244 	EXP 	text: autoDraw = False
+24.0244 	EXP 	text_2: autoDraw = False
+24.0244 	EXP 	text: height = 0.05
+24.0244 	EXP 	text: height = 0.05
+24.0244 	EXP 	text: height = 0.05
+24.0244 	EXP 	text: text = 'question'
+24.0244 	EXP 	fixation: autoDraw = True
+24.0244 	EXP 	text_2: autoDraw = True
+25.0243 	INFO 	Keyboard events cleared
+25.0239 	EXP 	fixation: autoDraw = False
+25.0239 	EXP 	text: autoDraw = True
+25.0239 	EXP 	text_2: autoDraw = False
+25.9254 	EXP 	New trial (rep=0, index=12): <Trial 12 (12 in rep 0) data={'words': 'anf', 'number_of_letters': 3, 'corrAns': 'left', 'thisN': 12, 'thisTrialN': 12, 'thisRepN': 0}>
+25.9301 	DATA 	Keypress: right
+25.9408 	EXP 	fixation: autoDraw = False
+25.9408 	EXP 	text: autoDraw = False
+25.9408 	EXP 	text_2: autoDraw = False
+25.9408 	EXP 	text: height = 0.05
+25.9408 	EXP 	text: height = 0.05
+25.9408 	EXP 	text: height = 0.05
+25.9408 	EXP 	text: text = 'anf'
+25.9408 	EXP 	fixation: autoDraw = True
+25.9408 	EXP 	text_2: autoDraw = True
+26.9417 	INFO 	Keyboard events cleared
+26.9409 	EXP 	fixation: autoDraw = False
+26.9409 	EXP 	text: autoDraw = True
+26.9409 	EXP 	text_2: autoDraw = False
+28.9751 	EXP 	New trial (rep=0, index=13): <Trial 13 (13 in rep 0) data={'words': 'woy', 'number_of_letters': 3, 'corrAns': 'left', 'thisN': 13, 'thisTrialN': 13, 'thisRepN': 0}>
+28.9795 	DATA 	Keypress: left
+28.9905 	EXP 	fixation: autoDraw = False
+28.9905 	EXP 	text: autoDraw = False
+28.9905 	EXP 	text_2: autoDraw = False
+28.9905 	EXP 	text: height = 0.05
+28.9905 	EXP 	text: height = 0.05
+28.9905 	EXP 	text: height = 0.05
+28.9905 	EXP 	text: text = 'woy'
+28.9905 	EXP 	fixation: autoDraw = True
+28.9905 	EXP 	text_2: autoDraw = True
+29.9913 	INFO 	Keyboard events cleared
+29.9908 	EXP 	fixation: autoDraw = False
+29.9908 	EXP 	text: autoDraw = True
+29.9908 	EXP 	text_2: autoDraw = False
+30.9748 	EXP 	New trial (rep=0, index=14): <Trial 14 (14 in rep 0) data={'words': 'play', 'number_of_letters': 4, 'corrAns': 'right', 'thisN': 14, 'thisTrialN': 14, 'thisRepN': 0}>
+30.9781 	DATA 	Keypress: left
+30.9904 	EXP 	fixation: autoDraw = False
+30.9904 	EXP 	text: autoDraw = False
+30.9904 	EXP 	text_2: autoDraw = False
+30.9904 	EXP 	text: height = 0.05
+30.9904 	EXP 	text: height = 0.05
+30.9904 	EXP 	text: height = 0.05
+30.9904 	EXP 	text: text = 'play'
+30.9904 	EXP 	fixation: autoDraw = True
+30.9904 	EXP 	text_2: autoDraw = True
+31.9744 	INFO 	Keyboard events cleared
+31.9737 	EXP 	text: autoDraw = True
+31.9908 	EXP 	fixation: autoDraw = False
+31.9908 	EXP 	text_2: autoDraw = False
+32.6263 	EXP 	New trial (rep=0, index=15): <Trial 15 (15 in rep 0) data={'words': 'bedween', 'number_of_letters': 7, 'corrAns': 'left', 'thisN': 15, 'thisTrialN': 15, 'thisRepN': 0}>
+32.6327 	DATA 	Keypress: right
+32.6408 	EXP 	fixation: autoDraw = False
+32.6408 	EXP 	text: autoDraw = False
+32.6408 	EXP 	text_2: autoDraw = False
+32.6408 	EXP 	text: height = 0.05
+32.6408 	EXP 	text: height = 0.05
+32.6408 	EXP 	text: height = 0.05
+32.6408 	EXP 	text: text = 'bedween'
+32.6408 	EXP 	fixation: autoDraw = True
+32.6408 	EXP 	text_2: autoDraw = True
+33.6410 	INFO 	Keyboard events cleared
+33.6405 	EXP 	fixation: autoDraw = False
+33.6405 	EXP 	text: autoDraw = True
+33.6405 	EXP 	text_2: autoDraw = False
+36.0421 	EXP 	New trial (rep=0, index=16): <Trial 16 (16 in rep 0) data={'words': 'quesdion', 'number_of_letters': 8, 'corrAns': 'left', 'thisN': 16, 'thisTrialN': 16, 'thisRepN': 0}>
+36.0456 	DATA 	Keypress: left
+36.0570 	EXP 	fixation: autoDraw = False
+36.0570 	EXP 	text: autoDraw = False
+36.0570 	EXP 	text_2: autoDraw = False
+36.0570 	EXP 	text: height = 0.05
+36.0570 	EXP 	text: height = 0.05
+36.0570 	EXP 	text: height = 0.05
+36.0570 	EXP 	text: text = 'quesdion'
+36.0570 	EXP 	fixation: autoDraw = True
+36.0570 	EXP 	text_2: autoDraw = True
+37.0579 	INFO 	Keyboard events cleared
+37.0573 	EXP 	fixation: autoDraw = False
+37.0573 	EXP 	text: autoDraw = True
+37.0573 	EXP 	text_2: autoDraw = False
+38.2419 	EXP 	New trial (rep=0, index=17): <Trial 17 (17 in rep 0) data={'words': 'could', 'number_of_letters': 5, 'corrAns': 'right', 'thisN': 17, 'thisTrialN': 17, 'thisRepN': 0}>
+38.2454 	DATA 	Keypress: left
+38.2572 	EXP 	fixation: autoDraw = False
+38.2572 	EXP 	text: autoDraw = False
+38.2572 	EXP 	text_2: autoDraw = False
+38.2572 	EXP 	text: height = 0.05
+38.2572 	EXP 	text: height = 0.05
+38.2572 	EXP 	text: height = 0.05
+38.2572 	EXP 	text: text = 'could'
+38.2572 	EXP 	fixation: autoDraw = True
+38.2572 	EXP 	text_2: autoDraw = True
+39.2582 	INFO 	Keyboard events cleared
+39.2574 	EXP 	fixation: autoDraw = False
+39.2574 	EXP 	text: autoDraw = True
+39.2574 	EXP 	text_2: autoDraw = False
+39.9747 	EXP 	New trial (rep=0, index=18): <Trial 18 (18 in rep 0) data={'words': 'and', 'number_of_letters': 3, 'corrAns': 'right', 'thisN': 18, 'thisTrialN': 18, 'thisRepN': 0}>
+39.9792 	DATA 	Keypress: right
+39.9901 	EXP 	fixation: autoDraw = False
+39.9901 	EXP 	text: autoDraw = False
+39.9901 	EXP 	text_2: autoDraw = False
+39.9901 	EXP 	text: height = 0.05
+39.9901 	EXP 	text: height = 0.05
+39.9901 	EXP 	text: height = 0.05
+39.9901 	EXP 	text: text = 'and'
+39.9901 	EXP 	fixation: autoDraw = True
+39.9901 	EXP 	text_2: autoDraw = True
+40.9739 	INFO 	Keyboard events cleared
+40.9734 	EXP 	text: autoDraw = True
+40.9902 	EXP 	fixation: autoDraw = False
+40.9902 	EXP 	text_2: autoDraw = False
+41.8083 	EXP 	New trial (rep=0, index=19): <Trial 19 (19 in rep 0) data={'words': 'whicb', 'number_of_letters': 5, 'corrAns': 'left', 'thisN': 19, 'thisTrialN': 19, 'thisRepN': 0}>
+41.8115 	DATA 	Keypress: right
+41.8234 	EXP 	fixation: autoDraw = False
+41.8234 	EXP 	text: autoDraw = False
+41.8234 	EXP 	text_2: autoDraw = False
+41.8234 	EXP 	text: height = 0.05
+41.8234 	EXP 	text: height = 0.05
+41.8234 	EXP 	text: height = 0.05
+41.8234 	EXP 	text: text = 'whicb'
+41.8234 	EXP 	fixation: autoDraw = True
+41.8234 	EXP 	text_2: autoDraw = True
+42.8240 	INFO 	Keyboard events cleared
+42.8233 	EXP 	fixation: autoDraw = False
+42.8233 	EXP 	text: autoDraw = True
+42.8233 	EXP 	text_2: autoDraw = False
+43.9917 	EXP 	New trial (rep=0, index=20): <Trial 20 (20 in rep 0) data={'words': 'tochnology', 'number_of_letters': 10, 'corrAns': 'left', 'thisN': 20, 'thisTrialN': 20, 'thisRepN': 0}>
+43.9950 	DATA 	Keypress: left
+44.0070 	EXP 	fixation: autoDraw = False
+44.0070 	EXP 	text: autoDraw = False
+44.0070 	EXP 	text_2: autoDraw = False
+44.0070 	EXP 	text: height = 0.05
+44.0070 	EXP 	text: height = 0.05
+44.0070 	EXP 	text: height = 0.05
+44.0070 	EXP 	text: text = 'tochnology'
+44.0070 	EXP 	fixation: autoDraw = True
+44.0070 	EXP 	text_2: autoDraw = True
+45.0076 	INFO 	Keyboard events cleared
+45.0069 	EXP 	fixation: autoDraw = False
+45.0069 	EXP 	text: autoDraw = True
+45.0069 	EXP 	text_2: autoDraw = False
+46.4924 	DATA 	Keypress: left
+46.5084 	EXP 	New trial (rep=0, index=21): <Trial 21 (21 in rep 0) data={'words': 'heur', 'number_of_letters': 4, 'corrAns': 'left', 'thisN': 21, 'thisTrialN': 21, 'thisRepN': 0}>
+46.5232 	EXP 	fixation: autoDraw = False
+46.5232 	EXP 	text: autoDraw = False
+46.5232 	EXP 	text_2: autoDraw = False
+46.5232 	EXP 	text: height = 0.05
+46.5232 	EXP 	text: height = 0.05
+46.5232 	EXP 	text: height = 0.05
+46.5232 	EXP 	text: text = 'heur'
+46.5232 	EXP 	fixation: autoDraw = True
+46.5232 	EXP 	text_2: autoDraw = True
+47.5239 	INFO 	Keyboard events cleared
+47.5232 	EXP 	fixation: autoDraw = False
+47.5232 	EXP 	text: autoDraw = True
+47.5232 	EXP 	text_2: autoDraw = False
+48.4083 	EXP 	New trial (rep=0, index=22): <Trial 22 (22 in rep 0) data={'words': 'pofitical', 'number_of_letters': 9, 'corrAns': 'left', 'thisN': 22, 'thisTrialN': 22, 'thisRepN': 0}>
+48.4128 	DATA 	Keypress: left
+48.4229 	EXP 	fixation: autoDraw = False
+48.4229 	EXP 	text: autoDraw = False
+48.4229 	EXP 	text_2: autoDraw = False
+48.4229 	EXP 	text: height = 0.05
+48.4229 	EXP 	text: height = 0.05
+48.4229 	EXP 	text: height = 0.05
+48.4229 	EXP 	text: text = 'pofitical'
+48.4229 	EXP 	fixation: autoDraw = True
+48.4229 	EXP 	text_2: autoDraw = True
+49.4238 	INFO 	Keyboard events cleared
+49.4229 	EXP 	fixation: autoDraw = False
+49.4229 	EXP 	text: autoDraw = True
+49.4229 	EXP 	text_2: autoDraw = False
+50.4413 	EXP 	New trial (rep=0, index=23): <Trial 23 (23 in rep 0) data={'words': 'want', 'number_of_letters': 4, 'corrAns': 'right', 'thisN': 23, 'thisTrialN': 23, 'thisRepN': 0}>
+50.4454 	DATA 	Keypress: left
+50.4564 	EXP 	fixation: autoDraw = False
+50.4564 	EXP 	text: autoDraw = False
+50.4564 	EXP 	text_2: autoDraw = False
+50.4564 	EXP 	text: height = 0.05
+50.4564 	EXP 	text: height = 0.05
+50.4564 	EXP 	text: height = 0.05
+50.4564 	EXP 	text: text = 'want'
+50.4564 	EXP 	fixation: autoDraw = True
+50.4564 	EXP 	text_2: autoDraw = True
+51.4573 	INFO 	Keyboard events cleared
+51.4565 	EXP 	fixation: autoDraw = False
+51.4565 	EXP 	text: autoDraw = True
+51.4565 	EXP 	text_2: autoDraw = False
+52.4589 	EXP 	New trial (rep=0, index=24): <Trial 24 (24 in rep 0) data={'words': 'population', 'number_of_letters': 10, 'corrAns': 'right', 'thisN': 24, 'thisTrialN': 24, 'thisRepN': 0}>
+52.4660 	DATA 	Keypress: right
+52.4729 	EXP 	fixation: autoDraw = False
+52.4729 	EXP 	text: autoDraw = False
+52.4729 	EXP 	text_2: autoDraw = False
+52.4729 	EXP 	text: height = 0.05
+52.4729 	EXP 	text: height = 0.05
+52.4729 	EXP 	text: height = 0.05
+52.4729 	EXP 	text: text = 'population'
+52.4729 	EXP 	fixation: autoDraw = True
+52.4729 	EXP 	text_2: autoDraw = True
+53.4739 	INFO 	Keyboard events cleared
+53.4729 	EXP 	fixation: autoDraw = False
+53.4729 	EXP 	text: autoDraw = True
+53.4729 	EXP 	text_2: autoDraw = False
+55.4243 	EXP 	New trial (rep=0, index=25): <Trial 25 (25 in rep 0) data={'words': 'eferything', 'number_of_letters': 10, 'corrAns': 'left', 'thisN': 25, 'thisTrialN': 25, 'thisRepN': 0}>
+55.4285 	DATA 	Keypress: right
+55.4397 	EXP 	fixation: autoDraw = False
+55.4397 	EXP 	text: autoDraw = False
+55.4397 	EXP 	text_2: autoDraw = False
+55.4397 	EXP 	text: height = 0.05
+55.4397 	EXP 	text: height = 0.05
+55.4397 	EXP 	text: height = 0.05
+55.4397 	EXP 	text: text = 'eferything'
+55.4397 	EXP 	fixation: autoDraw = True
+55.4397 	EXP 	text_2: autoDraw = True
+56.4400 	INFO 	Keyboard events cleared
+56.4394 	EXP 	fixation: autoDraw = False
+56.4394 	EXP 	text: autoDraw = True
+56.4394 	EXP 	text_2: autoDraw = False
+58.1409 	EXP 	New trial (rep=0, index=26): <Trial 26 (26 in rep 0) data={'words': 'their', 'number_of_letters': 5, 'corrAns': 'right', 'thisN': 26, 'thisTrialN': 26, 'thisRepN': 0}>
+58.1450 	DATA 	Keypress: left
+58.1564 	EXP 	fixation: autoDraw = False
+58.1564 	EXP 	text: autoDraw = False
+58.1564 	EXP 	text_2: autoDraw = False
+58.1564 	EXP 	text: height = 0.05
+58.1564 	EXP 	text: height = 0.05
+58.1564 	EXP 	text: height = 0.05
+58.1564 	EXP 	text: text = 'their'
+58.1564 	EXP 	fixation: autoDraw = True
+58.1564 	EXP 	text_2: autoDraw = True
+59.1565 	INFO 	Keyboard events cleared
+59.1559 	EXP 	fixation: autoDraw = False
+59.1559 	EXP 	text: autoDraw = True
+59.1559 	EXP 	text_2: autoDraw = False
+60.0908 	EXP 	New trial (rep=0, index=27): <Trial 27 (27 in rep 0) data={'words': 'neu', 'number_of_letters': 3, 'corrAns': 'left', 'thisN': 27, 'thisTrialN': 27, 'thisRepN': 0}>
+60.0939 	DATA 	Keypress: right
+60.1061 	EXP 	fixation: autoDraw = False
+60.1061 	EXP 	text: autoDraw = False
+60.1061 	EXP 	text_2: autoDraw = False
+60.1061 	EXP 	text: height = 0.05
+60.1061 	EXP 	text: height = 0.05
+60.1061 	EXP 	text: height = 0.05
+60.1061 	EXP 	text: text = 'neu'
+60.1061 	EXP 	fixation: autoDraw = True
+60.1061 	EXP 	text_2: autoDraw = True
+61.1065 	INFO 	Keyboard events cleared
+61.1060 	EXP 	fixation: autoDraw = False
+61.1060 	EXP 	text: autoDraw = True
+61.1060 	EXP 	text_2: autoDraw = False
+62.6574 	EXP 	New trial (rep=0, index=28): <Trial 28 (28 in rep 0) data={'words': 'lipe', 'number_of_letters': 4, 'corrAns': 'left', 'thisN': 28, 'thisTrialN': 28, 'thisRepN': 0}>
+62.6608 	DATA 	Keypress: left
+62.6726 	EXP 	fixation: autoDraw = False
+62.6726 	EXP 	text: autoDraw = False
+62.6726 	EXP 	text_2: autoDraw = False
+62.6726 	EXP 	text: height = 0.05
+62.6726 	EXP 	text: height = 0.05
+62.6726 	EXP 	text: height = 0.05
+62.6726 	EXP 	text: text = 'lipe'
+62.6726 	EXP 	fixation: autoDraw = True
+62.6726 	EXP 	text_2: autoDraw = True
+63.6728 	INFO 	Keyboard events cleared
+63.6724 	EXP 	fixation: autoDraw = False
+63.6724 	EXP 	text: autoDraw = True
+63.6724 	EXP 	text_2: autoDraw = False
+64.9584 	EXP 	New trial (rep=0, index=29): <Trial 29 (29 in rep 0) data={'words': 'anything', 'number_of_letters': 8, 'corrAns': 'right', 'thisN': 29, 'thisTrialN': 29, 'thisRepN': 0}>
+64.9653 	DATA 	Keypress: left
+64.9723 	EXP 	fixation: autoDraw = False
+64.9723 	EXP 	text: autoDraw = False
+64.9723 	EXP 	text_2: autoDraw = False
+64.9723 	EXP 	text: height = 0.05
+64.9723 	EXP 	text: height = 0.05
+64.9723 	EXP 	text: height = 0.05
+64.9723 	EXP 	text: text = 'anything'
+64.9723 	EXP 	fixation: autoDraw = True
+64.9723 	EXP 	text_2: autoDraw = True
+65.9730 	INFO 	Keyboard events cleared
+65.9725 	EXP 	fixation: autoDraw = False
+65.9725 	EXP 	text: autoDraw = True
+65.9725 	EXP 	text_2: autoDraw = False
+66.7904 	EXP 	New trial (rep=0, index=30): <Trial 30 (30 in rep 0) data={'words': 'especialty', 'number_of_letters': 10, 'corrAns': 'left', 'thisN': 30, 'thisTrialN': 30, 'thisRepN': 0}>
+66.7940 	DATA 	Keypress: right
+66.8057 	EXP 	fixation: autoDraw = False
+66.8057 	EXP 	text: autoDraw = False
+66.8057 	EXP 	text_2: autoDraw = False
+66.8057 	EXP 	text: height = 0.05
+66.8057 	EXP 	text: height = 0.05
+66.8057 	EXP 	text: height = 0.05
+66.8057 	EXP 	text: text = 'especialty'
+66.8057 	EXP 	fixation: autoDraw = True
+66.8057 	EXP 	text_2: autoDraw = True
+67.8066 	INFO 	Keyboard events cleared
+67.8060 	EXP 	fixation: autoDraw = False
+67.8060 	EXP 	text: autoDraw = True
+67.8060 	EXP 	text_2: autoDraw = False
+68.5900 	EXP 	New trial (rep=0, index=31): <Trial 31 (31 in rep 0) data={'words': 'ptay', 'number_of_letters': 4, 'corrAns': 'left', 'thisN': 31, 'thisTrialN': 31, 'thisRepN': 0}>
+68.5932 	DATA 	Keypress: right
+68.6055 	EXP 	fixation: autoDraw = False
+68.6055 	EXP 	text: autoDraw = False
+68.6055 	EXP 	text_2: autoDraw = False
+68.6055 	EXP 	text: height = 0.05
+68.6055 	EXP 	text: height = 0.05
+68.6055 	EXP 	text: height = 0.05
+68.6055 	EXP 	text: text = 'ptay'
+68.6055 	EXP 	fixation: autoDraw = True
+68.6055 	EXP 	text_2: autoDraw = True
+69.6062 	INFO 	Keyboard events cleared
+69.6057 	EXP 	fixation: autoDraw = False
+69.6057 	EXP 	text: autoDraw = True
+69.6057 	EXP 	text_2: autoDraw = False
+70.4070 	EXP 	New trial (rep=0, index=32): <Trial 32 (32 in rep 0) data={'words': 'which', 'number_of_letters': 5, 'corrAns': 'right', 'thisN': 32, 'thisTrialN': 32, 'thisRepN': 0}>
+70.4107 	DATA 	Keypress: left
+70.4221 	EXP 	fixation: autoDraw = False
+70.4221 	EXP 	text: autoDraw = False
+70.4221 	EXP 	text_2: autoDraw = False
+70.4221 	EXP 	text: height = 0.05
+70.4221 	EXP 	text: height = 0.05
+70.4221 	EXP 	text: height = 0.05
+70.4221 	EXP 	text: text = 'which'
+70.4221 	EXP 	fixation: autoDraw = True
+70.4221 	EXP 	text_2: autoDraw = True
+71.4229 	INFO 	Keyboard events cleared
+71.4222 	EXP 	fixation: autoDraw = False
+71.4222 	EXP 	text: autoDraw = True
+71.4222 	EXP 	text_2: autoDraw = False
+72.2233 	EXP 	New trial (rep=0, index=33): <Trial 33 (33 in rep 0) data={'words': 'everything', 'number_of_letters': 10, 'corrAns': 'right', 'thisN': 33, 'thisTrialN': 33, 'thisRepN': 0}>
+72.2288 	DATA 	Keypress: right
+72.2387 	EXP 	fixation: autoDraw = False
+72.2387 	EXP 	text: autoDraw = False
+72.2387 	EXP 	text_2: autoDraw = False
+72.2387 	EXP 	text: height = 0.05
+72.2387 	EXP 	text: height = 0.05
+72.2387 	EXP 	text: height = 0.05
+72.2387 	EXP 	text: text = 'everything'
+72.2387 	EXP 	fixation: autoDraw = True
+72.2387 	EXP 	text_2: autoDraw = True
+73.2227 	INFO 	Keyboard events cleared
+73.2222 	EXP 	text: autoDraw = True
+73.2390 	EXP 	fixation: autoDraw = False
+73.2390 	EXP 	text_2: autoDraw = False
+74.0404 	EXP 	New trial (rep=0, index=34): <Trial 34 (34 in rep 0) data={'words': 'business', 'number_of_letters': 8, 'corrAns': 'right', 'thisN': 34, 'thisTrialN': 34, 'thisRepN': 0}>
+74.0448 	DATA 	Keypress: right
+74.0553 	EXP 	fixation: autoDraw = False
+74.0553 	EXP 	text: autoDraw = False
+74.0553 	EXP 	text_2: autoDraw = False
+74.0553 	EXP 	text: height = 0.05
+74.0553 	EXP 	text: height = 0.05
+74.0553 	EXP 	text: height = 0.05
+74.0553 	EXP 	text: text = 'business'
+74.0553 	EXP 	fixation: autoDraw = True
+74.0553 	EXP 	text_2: autoDraw = True
+75.0561 	INFO 	Keyboard events cleared
+75.0555 	EXP 	fixation: autoDraw = False
+75.0555 	EXP 	text: autoDraw = True
+75.0555 	EXP 	text_2: autoDraw = False
+75.6232 	EXP 	New trial (rep=0, index=35): <Trial 35 (35 in rep 0) data={'words': 'compunity', 'number_of_letters': 9, 'corrAns': 'left', 'thisN': 35, 'thisTrialN': 35, 'thisRepN': 0}>
+75.6269 	DATA 	Keypress: right
+75.6387 	EXP 	fixation: autoDraw = False
+75.6387 	EXP 	text: autoDraw = False
+75.6387 	EXP 	text_2: autoDraw = False
+75.6387 	EXP 	text: height = 0.05
+75.6387 	EXP 	text: height = 0.05
+75.6387 	EXP 	text: height = 0.05
+75.6387 	EXP 	text: text = 'compunity'
+75.6387 	EXP 	fixation: autoDraw = True
+75.6387 	EXP 	text_2: autoDraw = True
+76.6390 	INFO 	Keyboard events cleared
+76.6385 	EXP 	fixation: autoDraw = False
+76.6385 	EXP 	text: autoDraw = True
+76.6385 	EXP 	text_2: autoDraw = False
+77.3401 	EXP 	New trial (rep=0, index=36): <Trial 36 (36 in rep 0) data={'words': 'courd', 'number_of_letters': 5, 'corrAns': 'left', 'thisN': 36, 'thisTrialN': 36, 'thisRepN': 0}>
+77.3436 	DATA 	Keypress: left
+77.3555 	EXP 	fixation: autoDraw = False
+77.3555 	EXP 	text: autoDraw = False
+77.3555 	EXP 	text_2: autoDraw = False
+77.3555 	EXP 	text: height = 0.05
+77.3555 	EXP 	text: height = 0.05
+77.3555 	EXP 	text: height = 0.05
+77.3555 	EXP 	text: text = 'courd'
+77.3555 	EXP 	fixation: autoDraw = True
+77.3555 	EXP 	text_2: autoDraw = True
+78.3561 	INFO 	Keyboard events cleared
+78.3555 	EXP 	fixation: autoDraw = False
+78.3555 	EXP 	text: autoDraw = True
+78.3555 	EXP 	text_2: autoDraw = False
+79.1899 	EXP 	New trial (rep=0, index=37): <Trial 37 (37 in rep 0) data={'words': 'country', 'number_of_letters': 7, 'corrAns': 'right', 'thisN': 37, 'thisTrialN': 37, 'thisRepN': 0}>
+79.1950 	DATA 	Keypress: left
+79.2053 	EXP 	fixation: autoDraw = False
+79.2053 	EXP 	text: autoDraw = False
+79.2053 	EXP 	text_2: autoDraw = False
+79.2053 	EXP 	text: height = 0.05
+79.2053 	EXP 	text: height = 0.05
+79.2053 	EXP 	text: height = 0.05
+79.2053 	EXP 	text: text = 'country'
+79.2053 	EXP 	fixation: autoDraw = True
+79.2053 	EXP 	text_2: autoDraw = True
+80.2059 	INFO 	Keyboard events cleared
+80.2053 	EXP 	fixation: autoDraw = False
+80.2053 	EXP 	text: autoDraw = True
+80.2053 	EXP 	text_2: autoDraw = False
+81.5230 	EXP 	New trial (rep=0, index=38): <Trial 38 (38 in rep 0) data={'words': 'ous', 'number_of_letters': 3, 'corrAns': 'left', 'thisN': 38, 'thisTrialN': 38, 'thisRepN': 0}>
+81.5261 	DATA 	Keypress: left
+81.5388 	EXP 	fixation: autoDraw = False
+81.5388 	EXP 	text: autoDraw = False
+81.5388 	EXP 	text_2: autoDraw = False
+81.5388 	EXP 	text: height = 0.05
+81.5388 	EXP 	text: height = 0.05
+81.5388 	EXP 	text: height = 0.05
+81.5388 	EXP 	text: text = 'ous'
+81.5388 	EXP 	fixation: autoDraw = True
+81.5388 	EXP 	text_2: autoDraw = True
+82.5388 	INFO 	Keyboard events cleared
+82.5382 	EXP 	fixation: autoDraw = False
+82.5382 	EXP 	text: autoDraw = True
+82.5382 	EXP 	text_2: autoDraw = False
+83.4898 	EXP 	New trial (rep=0, index=39): <Trial 39 (39 in rep 0) data={'words': 'experience', 'number_of_letters': 10, 'corrAns': 'right', 'thisN': 39, 'thisTrialN': 39, 'thisRepN': 0}>
+83.4950 	DATA 	Keypress: left
+83.5052 	EXP 	fixation: autoDraw = False
+83.5052 	EXP 	text: autoDraw = False
+83.5052 	EXP 	text_2: autoDraw = False
+83.5052 	EXP 	text: height = 0.05
+83.5052 	EXP 	text: height = 0.05
+83.5052 	EXP 	text: height = 0.05
+83.5052 	EXP 	text: text = 'experience'
+83.5052 	EXP 	fixation: autoDraw = True
+83.5052 	EXP 	text_2: autoDraw = True
+84.5061 	INFO 	Keyboard events cleared
+84.5053 	EXP 	fixation: autoDraw = False
+84.5053 	EXP 	text: autoDraw = True
+84.5053 	EXP 	text_2: autoDraw = False
+85.3899 	EXP 	New trial (rep=0, index=40): <Trial 40 (40 in rep 0) data={'words': 'believe', 'number_of_letters': 7, 'corrAns': 'right', 'thisN': 40, 'thisTrialN': 40, 'thisRepN': 0}>
+85.3953 	DATA 	Keypress: right
+85.4048 	EXP 	fixation: autoDraw = False
+85.4048 	EXP 	text: autoDraw = False
+85.4048 	EXP 	text_2: autoDraw = False
+85.4048 	EXP 	text: height = 0.05
+85.4048 	EXP 	text: height = 0.05
+85.4048 	EXP 	text: height = 0.05
+85.4048 	EXP 	text: text = 'believe'
+85.4048 	EXP 	fixation: autoDraw = True
+85.4048 	EXP 	text_2: autoDraw = True
+86.4054 	INFO 	Keyboard events cleared
+86.4049 	EXP 	fixation: autoDraw = False
+86.4049 	EXP 	text: autoDraw = True
+86.4049 	EXP 	text_2: autoDraw = False
+87.4413 	EXP 	New trial (rep=0, index=41): <Trial 41 (41 in rep 0) data={'words': 'line', 'number_of_letters': 4, 'corrAns': 'right', 'thisN': 41, 'thisTrialN': 41, 'thisRepN': 0}>
+87.4456 	DATA 	Keypress: right
+87.4550 	EXP 	fixation: autoDraw = False
+87.4550 	EXP 	text: autoDraw = False
+87.4550 	EXP 	text_2: autoDraw = False
+87.4550 	EXP 	text: height = 0.05
+87.4550 	EXP 	text: height = 0.05
+87.4550 	EXP 	text: height = 0.05
+87.4550 	EXP 	text: text = 'line'
+87.4550 	EXP 	fixation: autoDraw = True
+87.4550 	EXP 	text_2: autoDraw = True
+88.4555 	INFO 	Keyboard events cleared
+88.4550 	EXP 	fixation: autoDraw = False
+88.4550 	EXP 	text: autoDraw = True
+88.4550 	EXP 	text_2: autoDraw = False
+89.1728 	EXP 	New trial (rep=0, index=42): <Trial 42 (42 in rep 0) data={'words': 'thenk', 'number_of_letters': 5, 'corrAns': 'left', 'thisN': 42, 'thisTrialN': 42, 'thisRepN': 0}>
+89.1772 	DATA 	Keypress: right
+89.1881 	EXP 	fixation: autoDraw = False
+89.1881 	EXP 	text: autoDraw = False
+89.1881 	EXP 	text_2: autoDraw = False
+89.1881 	EXP 	text: height = 0.05
+89.1881 	EXP 	text: height = 0.05
+89.1881 	EXP 	text: height = 0.05
+89.1881 	EXP 	text: text = 'thenk'
+89.1881 	EXP 	fixation: autoDraw = True
+89.1881 	EXP 	text_2: autoDraw = True
+90.1889 	INFO 	Keyboard events cleared
+90.1882 	EXP 	fixation: autoDraw = False
+90.1882 	EXP 	text: autoDraw = True
+90.1882 	EXP 	text_2: autoDraw = False
+91.1396 	EXP 	New trial (rep=0, index=43): <Trial 43 (43 in rep 0) data={'words': 'think', 'number_of_letters': 5, 'corrAns': 'right', 'thisN': 43, 'thisTrialN': 43, 'thisRepN': 0}>
+91.1436 	DATA 	Keypress: left
+91.1548 	EXP 	fixation: autoDraw = False
+91.1548 	EXP 	text: autoDraw = False
+91.1548 	EXP 	text_2: autoDraw = False
+91.1548 	EXP 	text: height = 0.05
+91.1548 	EXP 	text: height = 0.05
+91.1548 	EXP 	text: height = 0.05
+91.1548 	EXP 	text: text = 'think'
+91.1548 	EXP 	fixation: autoDraw = True
+91.1548 	EXP 	text_2: autoDraw = True
+92.1555 	INFO 	Keyboard events cleared
+92.1549 	EXP 	fixation: autoDraw = False
+92.1549 	EXP 	text: autoDraw = True
+92.1549 	EXP 	text_2: autoDraw = False
+92.9064 	EXP 	New trial (rep=0, index=44): <Trial 44 (44 in rep 0) data={'words': 'secade', 'number_of_letters': 6, 'corrAns': 'left', 'thisN': 44, 'thisTrialN': 44, 'thisRepN': 0}>
+92.9111 	DATA 	Keypress: right
+92.9212 	EXP 	fixation: autoDraw = False
+92.9212 	EXP 	text: autoDraw = False
+92.9212 	EXP 	text_2: autoDraw = False
+92.9212 	EXP 	text: height = 0.05
+92.9212 	EXP 	text: height = 0.05
+92.9212 	EXP 	text: height = 0.05
+92.9212 	EXP 	text: text = 'secade'
+92.9212 	EXP 	fixation: autoDraw = True
+92.9212 	EXP 	text_2: autoDraw = True
+93.9213 	INFO 	Keyboard events cleared
+93.9209 	EXP 	fixation: autoDraw = False
+93.9209 	EXP 	text: autoDraw = True
+93.9209 	EXP 	text_2: autoDraw = False
+94.8890 	EXP 	New trial (rep=0, index=45): <Trial 45 (45 in rep 0) data={'words': 'bifferent', 'number_of_letters': 9, 'corrAns': 'left', 'thisN': 45, 'thisTrialN': 45, 'thisRepN': 0}>
+94.8926 	DATA 	Keypress: left
+94.9044 	EXP 	fixation: autoDraw = False
+94.9044 	EXP 	text: autoDraw = False
+94.9044 	EXP 	text_2: autoDraw = False
+94.9044 	EXP 	text: height = 0.05
+94.9044 	EXP 	text: height = 0.05
+94.9044 	EXP 	text: height = 0.05
+94.9044 	EXP 	text: text = 'bifferent'
+94.9044 	EXP 	fixation: autoDraw = True
+94.9044 	EXP 	text_2: autoDraw = True
+95.9048 	INFO 	Keyboard events cleared
+95.9044 	EXP 	fixation: autoDraw = False
+95.9044 	EXP 	text: autoDraw = True
+95.9044 	EXP 	text_2: autoDraw = False
+96.6061 	EXP 	New trial (rep=0, index=46): <Trial 46 (46 in rep 0) data={'words': 'company', 'number_of_letters': 7, 'corrAns': 'right', 'thisN': 46, 'thisTrialN': 46, 'thisRepN': 0}>
+96.6106 	DATA 	Keypress: left
+96.6211 	EXP 	fixation: autoDraw = False
+96.6211 	EXP 	text: autoDraw = False
+96.6211 	EXP 	text_2: autoDraw = False
+96.6211 	EXP 	text: height = 0.05
+96.6211 	EXP 	text: height = 0.05
+96.6211 	EXP 	text: height = 0.05
+96.6211 	EXP 	text: text = 'company'
+96.6211 	EXP 	fixation: autoDraw = True
+96.6211 	EXP 	text_2: autoDraw = True
+97.6214 	INFO 	Keyboard events cleared
+97.6209 	EXP 	fixation: autoDraw = False
+97.6209 	EXP 	text: autoDraw = True
+97.6209 	EXP 	text_2: autoDraw = False
+98.3228 	EXP 	New trial (rep=0, index=47): <Trial 47 (47 in rep 0) data={'words': 'rememper', 'number_of_letters': 8, 'corrAns': 'left', 'thisN': 47, 'thisTrialN': 47, 'thisRepN': 0}>
+98.3286 	DATA 	Keypress: right
+98.3376 	EXP 	fixation: autoDraw = False
+98.3376 	EXP 	text: autoDraw = False
+98.3376 	EXP 	text_2: autoDraw = False
+98.3376 	EXP 	text: height = 0.05
+98.3376 	EXP 	text: height = 0.05
+98.3376 	EXP 	text: height = 0.05
+98.3376 	EXP 	text: text = 'rememper'
+98.3376 	EXP 	fixation: autoDraw = True
+98.3376 	EXP 	text_2: autoDraw = True
+99.3382 	INFO 	Keyboard events cleared
+99.3376 	EXP 	fixation: autoDraw = False
+99.3376 	EXP 	text: autoDraw = True
+99.3376 	EXP 	text_2: autoDraw = False
+100.0226 	EXP 	New trial (rep=0, index=48): <Trial 48 (48 in rep 0) data={'words': 'different', 'number_of_letters': 9, 'corrAns': 'right', 'thisN': 48, 'thisTrialN': 48, 'thisRepN': 0}>
+100.0268 	DATA 	Keypress: left
+100.0378 	EXP 	fixation: autoDraw = False
+100.0378 	EXP 	text: autoDraw = False
+100.0378 	EXP 	text_2: autoDraw = False
+100.0378 	EXP 	text: height = 0.05
+100.0378 	EXP 	text: height = 0.05
+100.0378 	EXP 	text: height = 0.05
+100.0378 	EXP 	text: text = 'different'
+100.0378 	EXP 	fixation: autoDraw = True
+100.0378 	EXP 	text_2: autoDraw = True
+101.0384 	INFO 	Keyboard events cleared
+101.0379 	EXP 	fixation: autoDraw = False
+101.0379 	EXP 	text: autoDraw = True
+101.0379 	EXP 	text_2: autoDraw = False
+101.7568 	EXP 	New trial (rep=0, index=49): <Trial 49 (49 in rep 0) data={'words': 'bussness', 'number_of_letters': 8, 'corrAns': 'left', 'thisN': 49, 'thisTrialN': 49, 'thisRepN': 0}>
+101.7611 	DATA 	Keypress: right
+101.7709 	EXP 	fixation: autoDraw = False
+101.7709 	EXP 	text: autoDraw = False
+101.7709 	EXP 	text_2: autoDraw = False
+101.7709 	EXP 	text: height = 0.05
+101.7709 	EXP 	text: height = 0.05
+101.7709 	EXP 	text: height = 0.05
+101.7709 	EXP 	text: text = 'bussness'
+101.7709 	EXP 	fixation: autoDraw = True
+101.7709 	EXP 	text_2: autoDraw = True
+102.7713 	INFO 	Keyboard events cleared
+102.7708 	EXP 	fixation: autoDraw = False
+102.7708 	EXP 	text: autoDraw = True
+102.7708 	EXP 	text_2: autoDraw = False
+103.3393 	EXP 	New trial (rep=0, index=50): <Trial 50 (50 in rep 0) data={'words': 'remember', 'number_of_letters': 8, 'corrAns': 'right', 'thisN': 50, 'thisTrialN': 50, 'thisRepN': 0}>
+103.3441 	DATA 	Keypress: right
+103.3544 	EXP 	fixation: autoDraw = False
+103.3544 	EXP 	text: autoDraw = False
+103.3544 	EXP 	text_2: autoDraw = False
+103.3544 	EXP 	text: height = 0.05
+103.3544 	EXP 	text: height = 0.05
+103.3544 	EXP 	text: height = 0.05
+103.3544 	EXP 	text: text = 'remember'
+103.3544 	EXP 	fixation: autoDraw = True
+103.3544 	EXP 	text_2: autoDraw = True
+104.3549 	INFO 	Keyboard events cleared
+104.3543 	EXP 	fixation: autoDraw = False
+104.3543 	EXP 	text: autoDraw = True
+104.3543 	EXP 	text_2: autoDraw = False
+105.1718 	EXP 	New trial (rep=0, index=51): <Trial 51 (51 in rep 0) data={'words': 'fot', 'number_of_letters': 3, 'corrAns': 'left', 'thisN': 51, 'thisTrialN': 51, 'thisRepN': 0}>
+105.1758 	DATA 	Keypress: right
+105.1874 	EXP 	fixation: autoDraw = False
+105.1874 	EXP 	text: autoDraw = False
+105.1874 	EXP 	text_2: autoDraw = False
+105.1874 	EXP 	text: height = 0.05
+105.1874 	EXP 	text: height = 0.05
+105.1874 	EXP 	text: height = 0.05
+105.1874 	EXP 	text: text = 'fot'
+105.1874 	EXP 	fixation: autoDraw = True
+105.1874 	EXP 	text_2: autoDraw = True
+106.1881 	INFO 	Keyboard events cleared
+106.1874 	EXP 	fixation: autoDraw = False
+106.1874 	EXP 	text: autoDraw = True
+106.1874 	EXP 	text_2: autoDraw = False
+106.7723 	EXP 	New trial (rep=0, index=52): <Trial 52 (52 in rep 0) data={'words': 'system', 'number_of_letters': 6, 'corrAns': 'right', 'thisN': 52, 'thisTrialN': 52, 'thisRepN': 0}>
+106.7770 	DATA 	Keypress: left
+106.7876 	EXP 	fixation: autoDraw = False
+106.7876 	EXP 	text: autoDraw = False
+106.7876 	EXP 	text_2: autoDraw = False
+106.7876 	EXP 	text: height = 0.05
+106.7876 	EXP 	text: height = 0.05
+106.7876 	EXP 	text: height = 0.05
+106.7876 	EXP 	text: text = 'system'
+106.7876 	EXP 	fixation: autoDraw = True
+106.7876 	EXP 	text_2: autoDraw = True
+107.7878 	INFO 	Keyboard events cleared
+107.7872 	EXP 	fixation: autoDraw = False
+107.7872 	EXP 	text: autoDraw = True
+107.7872 	EXP 	text_2: autoDraw = False
+108.2553 	EXP 	New trial (rep=0, index=53): <Trial 53 (53 in rep 0) data={'words': 'bopulation', 'number_of_letters': 10, 'corrAns': 'left', 'thisN': 53, 'thisTrialN': 53, 'thisRepN': 0}>
+108.2604 	DATA 	Keypress: left
+108.2704 	EXP 	fixation: autoDraw = False
+108.2704 	EXP 	text: autoDraw = False
+108.2704 	EXP 	text_2: autoDraw = False
+108.2704 	EXP 	text: height = 0.05
+108.2704 	EXP 	text: height = 0.05
+108.2704 	EXP 	text: height = 0.05
+108.2704 	EXP 	text: text = 'bopulation'
+108.2704 	EXP 	fixation: autoDraw = True
+108.2704 	EXP 	text_2: autoDraw = True
+109.2713 	INFO 	Keyboard events cleared
+109.2706 	EXP 	fixation: autoDraw = False
+109.2706 	EXP 	text: autoDraw = True
+109.2706 	EXP 	text_2: autoDraw = False
+110.0225 	EXP 	New trial (rep=0, index=54): <Trial 54 (54 in rep 0) data={'words': 'for', 'number_of_letters': 3, 'corrAns': 'right', 'thisN': 54, 'thisTrialN': 54, 'thisRepN': 0}>
+110.0264 	DATA 	Keypress: left
+110.0370 	EXP 	fixation: autoDraw = False
+110.0370 	EXP 	text: autoDraw = False
+110.0370 	EXP 	text_2: autoDraw = False
+110.0370 	EXP 	text: height = 0.05
+110.0370 	EXP 	text: height = 0.05
+110.0370 	EXP 	text: height = 0.05
+110.0370 	EXP 	text: text = 'for'
+110.0370 	EXP 	fixation: autoDraw = True
+110.0370 	EXP 	text_2: autoDraw = True
+111.0381 	INFO 	Keyboard events cleared
+111.0375 	EXP 	fixation: autoDraw = False
+111.0375 	EXP 	text: autoDraw = True
+111.0375 	EXP 	text_2: autoDraw = False
+111.9559 	EXP 	New trial (rep=0, index=55): <Trial 55 (55 in rep 0) data={'words': 'between', 'number_of_letters': 7, 'corrAns': 'right', 'thisN': 55, 'thisTrialN': 55, 'thisRepN': 0}>
+111.9607 	DATA 	Keypress: right
+111.9706 	EXP 	fixation: autoDraw = False
+111.9706 	EXP 	text: autoDraw = False
+111.9706 	EXP 	text_2: autoDraw = False
+111.9706 	EXP 	text: height = 0.05
+111.9706 	EXP 	text: height = 0.05
+111.9706 	EXP 	text: height = 0.05
+111.9706 	EXP 	text: text = 'between'
+111.9706 	EXP 	fixation: autoDraw = True
+111.9706 	EXP 	text_2: autoDraw = True
+112.9710 	INFO 	Keyboard events cleared
+112.9705 	EXP 	fixation: autoDraw = False
+112.9705 	EXP 	text: autoDraw = True
+112.9705 	EXP 	text_2: autoDraw = False
+113.6709 	EXP 	New trial (rep=0, index=56): <Trial 56 (56 in rep 0) data={'words': 'research', 'number_of_letters': 8, 'corrAns': 'right', 'thisN': 56, 'thisTrialN': 56, 'thisRepN': 0}>
+113.6736 	DATA 	Keypress: right
+113.6868 	EXP 	fixation: autoDraw = False
+113.6868 	EXP 	text: autoDraw = False
+113.6868 	EXP 	text_2: autoDraw = False
+113.6868 	EXP 	text: height = 0.05
+113.6868 	EXP 	text: height = 0.05
+113.6868 	EXP 	text: height = 0.05
+113.6868 	EXP 	text: text = 'research'
+113.6868 	EXP 	fixation: autoDraw = True
+113.6868 	EXP 	text_2: autoDraw = True
+114.6712 	INFO 	Keyboard events cleared
+114.6704 	EXP 	text: autoDraw = True
+114.6871 	EXP 	fixation: autoDraw = False
+114.6871 	EXP 	text_2: autoDraw = False
+115.2714 	EXP 	New trial (rep=0, index=57): <Trial 57 (57 in rep 0) data={'words': 'anythink', 'number_of_letters': 8, 'corrAns': 'left', 'thisN': 57, 'thisTrialN': 57, 'thisRepN': 0}>
+115.2748 	DATA 	Keypress: right
+115.2873 	EXP 	fixation: autoDraw = False
+115.2873 	EXP 	text: autoDraw = False
+115.2873 	EXP 	text_2: autoDraw = False
+115.2873 	EXP 	text: height = 0.05
+115.2873 	EXP 	text: height = 0.05
+115.2873 	EXP 	text: height = 0.05
+115.2873 	EXP 	text: text = 'anythink'
+115.2873 	EXP 	fixation: autoDraw = True
+115.2873 	EXP 	text_2: autoDraw = True
+116.2710 	INFO 	Keyboard events cleared
+116.2701 	EXP 	text: autoDraw = True
+116.2873 	EXP 	fixation: autoDraw = False
+116.2873 	EXP 	text_2: autoDraw = False
+116.7727 	DATA 	Keypress: right
+116.7883 	EXP 	New trial (rep=0, index=58): <Trial 58 (58 in rep 0) data={'words': 'exberience', 'number_of_letters': 10, 'corrAns': 'left', 'thisN': 58, 'thisTrialN': 58, 'thisRepN': 0}>
+116.8036 	EXP 	fixation: autoDraw = False
+116.8036 	EXP 	text: autoDraw = False
+116.8036 	EXP 	text_2: autoDraw = False
+116.8036 	EXP 	text: height = 0.05
+116.8036 	EXP 	text: height = 0.05
+116.8036 	EXP 	text: height = 0.05
+116.8036 	EXP 	text: text = 'exberience'
+116.8036 	EXP 	fixation: autoDraw = True
+116.8036 	EXP 	text_2: autoDraw = True
+117.8039 	INFO 	Keyboard events cleared
+117.8034 	EXP 	fixation: autoDraw = False
+117.8034 	EXP 	text: autoDraw = True
+117.8034 	EXP 	text_2: autoDraw = False
+118.4712 	EXP 	New trial (rep=0, index=59): <Trial 59 (59 in rep 0) data={'words': 'theyr', 'number_of_letters': 5, 'corrAns': 'left', 'thisN': 59, 'thisTrialN': 59, 'thisRepN': 0}>
+118.4749 	DATA 	Keypress: right
+118.4869 	EXP 	fixation: autoDraw = False
+118.4869 	EXP 	text: autoDraw = False
+118.4869 	EXP 	text_2: autoDraw = False
+118.4869 	EXP 	text: height = 0.05
+118.4869 	EXP 	text: height = 0.05
+118.4869 	EXP 	text: height = 0.05
+118.4869 	EXP 	text: text = 'theyr'
+118.4869 	EXP 	fixation: autoDraw = True
+118.4869 	EXP 	text_2: autoDraw = True
+119.4707 	INFO 	Keyboard events cleared
+119.4701 	EXP 	text: autoDraw = True
+119.4872 	EXP 	fixation: autoDraw = False
+119.4872 	EXP 	text_2: autoDraw = False
+119.9878 	EXP 	New trial (rep=0, index=60): <Trial 60 (60 in rep 0) data={'words': 'technology', 'number_of_letters': 10, 'corrAns': 'right', 'thisN': 60, 'thisTrialN': 60, 'thisRepN': 0}>
+119.9913 	DATA 	Keypress: left
+120.0036 	EXP 	fixation: autoDraw = False
+120.0036 	EXP 	text: autoDraw = False
+120.0036 	EXP 	text_2: autoDraw = False
+120.0036 	EXP 	text: height = 0.05
+120.0036 	EXP 	text: height = 0.05
+120.0036 	EXP 	text: height = 0.05
+120.0036 	EXP 	text: text = 'technology'
+120.0036 	EXP 	fixation: autoDraw = True
+120.0036 	EXP 	text_2: autoDraw = True
+121.0042 	INFO 	Keyboard events cleared
+121.0037 	EXP 	fixation: autoDraw = False
+121.0037 	EXP 	text: autoDraw = True
+121.0037 	EXP 	text_2: autoDraw = False
+121.8050 	EXP 	New trial (rep=0, index=61): <Trial 61 (61 in rep 0) data={'words': 'new', 'number_of_letters': 3, 'corrAns': 'right', 'thisN': 61, 'thisTrialN': 61, 'thisRepN': 0}>
+121.8079 	DATA 	Keypress: right
+121.8201 	EXP 	fixation: autoDraw = False
+121.8201 	EXP 	text: autoDraw = False
+121.8201 	EXP 	text_2: autoDraw = False
+121.8201 	EXP 	text: height = 0.05
+121.8201 	EXP 	text: height = 0.05
+121.8201 	EXP 	text: height = 0.05
+121.8201 	EXP 	text: text = 'new'
+121.8201 	EXP 	fixation: autoDraw = True
+121.8201 	EXP 	text_2: autoDraw = True
+122.8205 	INFO 	Keyboard events cleared
+122.8200 	EXP 	fixation: autoDraw = False
+122.8200 	EXP 	text: autoDraw = True
+122.8200 	EXP 	text_2: autoDraw = False
+123.4881 	EXP 	New trial (rep=0, index=62): <Trial 62 (62 in rep 0) data={'words': 'pregram', 'number_of_letters': 7, 'corrAns': 'left', 'thisN': 62, 'thisTrialN': 62, 'thisRepN': 0}>
+123.4919 	DATA 	Keypress: right
+123.5035 	EXP 	fixation: autoDraw = False
+123.5035 	EXP 	text: autoDraw = False
+123.5035 	EXP 	text_2: autoDraw = False
+123.5035 	EXP 	text: height = 0.05
+123.5035 	EXP 	text: height = 0.05
+123.5035 	EXP 	text: height = 0.05
+123.5035 	EXP 	text: text = 'pregram'
+123.5035 	EXP 	fixation: autoDraw = True
+123.5035 	EXP 	text_2: autoDraw = True
+124.5044 	INFO 	Keyboard events cleared
+124.5034 	EXP 	fixation: autoDraw = False
+124.5034 	EXP 	text: autoDraw = True
+124.5034 	EXP 	text_2: autoDraw = False
+125.1714 	EXP 	New trial (rep=0, index=63): <Trial 63 (63 in rep 0) data={'words': 'beliefe', 'number_of_letters': 7, 'corrAns': 'left', 'thisN': 63, 'thisTrialN': 63, 'thisRepN': 0}>
+125.1753 	DATA 	Keypress: left
+125.1868 	EXP 	fixation: autoDraw = False
+125.1868 	EXP 	text: autoDraw = False
+125.1868 	EXP 	text_2: autoDraw = False
+125.1868 	EXP 	text: height = 0.05
+125.1868 	EXP 	text: height = 0.05
+125.1868 	EXP 	text: height = 0.05
+125.1868 	EXP 	text: text = 'beliefe'
+125.1868 	EXP 	fixation: autoDraw = True
+125.1868 	EXP 	text_2: autoDraw = True
+126.1875 	INFO 	Keyboard events cleared
+126.1868 	EXP 	fixation: autoDraw = False
+126.1868 	EXP 	text: autoDraw = True
+126.1868 	EXP 	text_2: autoDraw = False
+127.1883 	EXP 	New trial (rep=0, index=64): <Trial 64 (64 in rep 0) data={'words': 'becone', 'number_of_letters': 6, 'corrAns': 'left', 'thisN': 64, 'thisTrialN': 64, 'thisRepN': 0}>
+127.1917 	DATA 	Keypress: left
+127.2033 	EXP 	fixation: autoDraw = False
+127.2033 	EXP 	text: autoDraw = False
+127.2033 	EXP 	text_2: autoDraw = False
+127.2033 	EXP 	text: height = 0.05
+127.2033 	EXP 	text: height = 0.05
+127.2033 	EXP 	text: height = 0.05
+127.2033 	EXP 	text: text = 'becone'
+127.2033 	EXP 	fixation: autoDraw = True
+127.2033 	EXP 	text_2: autoDraw = True
+128.2035 	INFO 	Keyboard events cleared
+128.2030 	EXP 	fixation: autoDraw = False
+128.2030 	EXP 	text: autoDraw = True
+128.2030 	EXP 	text_2: autoDraw = False
+129.1708 	EXP 	New trial (rep=0, index=65): <Trial 65 (65 in rep 0) data={'words': 'compane', 'number_of_letters': 7, 'corrAns': 'left', 'thisN': 65, 'thisTrialN': 65, 'thisRepN': 0}>
+129.1743 	DATA 	Keypress: left
+129.1867 	EXP 	fixation: autoDraw = False
+129.1867 	EXP 	text: autoDraw = False
+129.1867 	EXP 	text_2: autoDraw = False
+129.1867 	EXP 	text: height = 0.05
+129.1867 	EXP 	text: height = 0.05
+129.1867 	EXP 	text: height = 0.05
+129.1867 	EXP 	text: text = 'compane'
+129.1867 	EXP 	fixation: autoDraw = True
+129.1867 	EXP 	text_2: autoDraw = True
+130.1697 	INFO 	Keyboard events cleared
+130.1694 	EXP 	text: autoDraw = True
+130.1862 	EXP 	fixation: autoDraw = False
+130.1862 	EXP 	text_2: autoDraw = False
+130.7045 	EXP 	New trial (rep=0, index=66): <Trial 66 (66 in rep 0) data={'words': 'much', 'number_of_letters': 4, 'corrAns': 'right', 'thisN': 66, 'thisTrialN': 66, 'thisRepN': 0}>
+130.7078 	DATA 	Keypress: left
+130.7197 	EXP 	fixation: autoDraw = False
+130.7197 	EXP 	text: autoDraw = False
+130.7197 	EXP 	text_2: autoDraw = False
+130.7197 	EXP 	text: height = 0.05
+130.7197 	EXP 	text: height = 0.05
+130.7197 	EXP 	text: height = 0.05
+130.7197 	EXP 	text: text = 'much'
+130.7197 	EXP 	fixation: autoDraw = True
+130.7197 	EXP 	text_2: autoDraw = True
+131.7198 	INFO 	Keyboard events cleared
+131.7194 	EXP 	fixation: autoDraw = False
+131.7194 	EXP 	text: autoDraw = True
+131.7194 	EXP 	text_2: autoDraw = False
+132.4041 	EXP 	New trial (rep=0, index=67): <Trial 67 (67 in rep 0) data={'words': 'political', 'number_of_letters': 9, 'corrAns': 'right', 'thisN': 67, 'thisTrialN': 67, 'thisRepN': 0}>
+132.4077 	DATA 	Keypress: right
+132.4193 	EXP 	fixation: autoDraw = False
+132.4193 	EXP 	text: autoDraw = False
+132.4193 	EXP 	text_2: autoDraw = False
+132.4193 	EXP 	text: height = 0.05
+132.4193 	EXP 	text: height = 0.05
+132.4193 	EXP 	text: height = 0.05
+132.4193 	EXP 	text: text = 'political'
+132.4193 	EXP 	fixation: autoDraw = True
+132.4193 	EXP 	text_2: autoDraw = True
+133.4200 	INFO 	Keyboard events cleared
+133.4195 	EXP 	fixation: autoDraw = False
+133.4195 	EXP 	text: autoDraw = True
+133.4195 	EXP 	text_2: autoDraw = False
+134.3709 	EXP 	New trial (rep=0, index=68): <Trial 68 (68 in rep 0) data={'words': 'should', 'number_of_letters': 6, 'corrAns': 'right', 'thisN': 68, 'thisTrialN': 68, 'thisRepN': 0}>
+134.3742 	DATA 	Keypress: right
+134.3860 	EXP 	fixation: autoDraw = False
+134.3860 	EXP 	text: autoDraw = False
+134.3860 	EXP 	text_2: autoDraw = False
+134.3860 	EXP 	text: height = 0.05
+134.3860 	EXP 	text: height = 0.05
+134.3860 	EXP 	text: height = 0.05
+134.3860 	EXP 	text: text = 'should'
+134.3860 	EXP 	fixation: autoDraw = True
+134.3860 	EXP 	text_2: autoDraw = True
+135.3869 	INFO 	Keyboard events cleared
+135.3864 	EXP 	fixation: autoDraw = False
+135.3864 	EXP 	text: autoDraw = True
+135.3864 	EXP 	text_2: autoDraw = False
+135.8372 	EXP 	New trial (rep=0, index=69): <Trial 69 (69 in rep 0) data={'words': 'pesearch', 'number_of_letters': 8, 'corrAns': 'left', 'thisN': 69, 'thisTrialN': 69, 'thisRepN': 0}>
+135.8407 	DATA 	Keypress: right
+135.8527 	EXP 	fixation: autoDraw = False
+135.8527 	EXP 	text: autoDraw = False
+135.8527 	EXP 	text_2: autoDraw = False
+135.8527 	EXP 	text: height = 0.05
+135.8527 	EXP 	text: height = 0.05
+135.8527 	EXP 	text: height = 0.05
+135.8527 	EXP 	text: text = 'pesearch'
+135.8527 	EXP 	fixation: autoDraw = True
+135.8527 	EXP 	text_2: autoDraw = True
+136.8533 	INFO 	Keyboard events cleared
+136.8528 	EXP 	fixation: autoDraw = False
+136.8528 	EXP 	text: autoDraw = True
+136.8528 	EXP 	text_2: autoDraw = False
+137.6371 	EXP 	New trial (rep=0, index=70): <Trial 70 (70 in rep 0) data={'words': 'community', 'number_of_letters': 9, 'corrAns': 'right', 'thisN': 70, 'thisTrialN': 70, 'thisRepN': 0}>
+137.6406 	DATA 	Keypress: left
+137.6529 	EXP 	fixation: autoDraw = False
+137.6529 	EXP 	text: autoDraw = False
+137.6529 	EXP 	text_2: autoDraw = False
+137.6529 	EXP 	text: height = 0.05
+137.6529 	EXP 	text: height = 0.05
+137.6529 	EXP 	text: height = 0.05
+137.6529 	EXP 	text: text = 'community'
+137.6529 	EXP 	fixation: autoDraw = True
+137.6529 	EXP 	text_2: autoDraw = True
+138.6374 	INFO 	Keyboard events cleared
+138.6365 	EXP 	text: autoDraw = True
+138.6530 	EXP 	fixation: autoDraw = False
+138.6530 	EXP 	text_2: autoDraw = False
+139.3047 	EXP 	New trial (rep=0, index=71): <Trial 71 (71 in rep 0) data={'words': 'countey', 'number_of_letters': 7, 'corrAns': 'left', 'thisN': 71, 'thisTrialN': 71, 'thisRepN': 0}>
+139.3092 	DATA 	Keypress: right
+139.3193 	EXP 	fixation: autoDraw = False
+139.3193 	EXP 	text: autoDraw = False
+139.3193 	EXP 	text_2: autoDraw = False
+139.3193 	EXP 	text: height = 0.05
+139.3193 	EXP 	text: height = 0.05
+139.3193 	EXP 	text: height = 0.05
+139.3193 	EXP 	text: text = 'countey'
+139.3193 	EXP 	fixation: autoDraw = True
+139.3193 	EXP 	text_2: autoDraw = True
+140.3201 	INFO 	Keyboard events cleared
+140.3195 	EXP 	fixation: autoDraw = False
+140.3195 	EXP 	text: autoDraw = True
+140.3195 	EXP 	text_2: autoDraw = False
+141.0878 	EXP 	New trial (rep=0, index=72): <Trial 72 (72 in rep 0) data={'words': 'about', 'number_of_letters': 5, 'corrAns': 'right', 'thisN': 72, 'thisTrialN': 72, 'thisRepN': 0}>
+141.0920 	DATA 	Keypress: left
+141.1026 	EXP 	fixation: autoDraw = False
+141.1026 	EXP 	text: autoDraw = False
+141.1026 	EXP 	text_2: autoDraw = False
+141.1026 	EXP 	text: height = 0.05
+141.1026 	EXP 	text: height = 0.05
+141.1026 	EXP 	text: height = 0.05
+141.1026 	EXP 	text: text = 'about'
+141.1026 	EXP 	fixation: autoDraw = True
+141.1026 	EXP 	text_2: autoDraw = True
+142.1035 	INFO 	Keyboard events cleared
+142.1027 	EXP 	fixation: autoDraw = False
+142.1027 	EXP 	text: autoDraw = True
+142.1027 	EXP 	text_2: autoDraw = False
+142.8217 	EXP 	New trial (rep=0, index=73): <Trial 73 (73 in rep 0) data={'words': 'aboot', 'number_of_letters': 5, 'corrAns': 'left', 'thisN': 73, 'thisTrialN': 73, 'thisRepN': 0}>
+142.8311 	DATA 	Keypress: right
+142.8359 	EXP 	fixation: autoDraw = False
+142.8359 	EXP 	text: autoDraw = False
+142.8359 	EXP 	text_2: autoDraw = False
+142.8359 	EXP 	text: height = 0.05
+142.8359 	EXP 	text: height = 0.05
+142.8359 	EXP 	text: height = 0.05
+142.8359 	EXP 	text: text = 'aboot'
+142.8359 	EXP 	fixation: autoDraw = True
+142.8359 	EXP 	text_2: autoDraw = True
+143.8364 	INFO 	Keyboard events cleared
+143.8358 	EXP 	fixation: autoDraw = False
+143.8358 	EXP 	text: autoDraw = True
+143.8358 	EXP 	text_2: autoDraw = False
+144.3203 	EXP 	New trial (rep=0, index=74): <Trial 74 (74 in rep 0) data={'words': 'incluting', 'number_of_letters': 9, 'corrAns': 'left', 'thisN': 74, 'thisTrialN': 74, 'thisRepN': 0}>
+144.3238 	DATA 	Keypress: right
+144.3360 	EXP 	fixation: autoDraw = False
+144.3360 	EXP 	text: autoDraw = False
+144.3360 	EXP 	text_2: autoDraw = False
+144.3360 	EXP 	text: height = 0.05
+144.3360 	EXP 	text: height = 0.05
+144.3360 	EXP 	text: height = 0.05
+144.3360 	EXP 	text: text = 'incluting'
+144.3360 	EXP 	fixation: autoDraw = True
+144.3360 	EXP 	text_2: autoDraw = True
+145.3198 	INFO 	Keyboard events cleared
+145.3191 	EXP 	text: autoDraw = True
+145.3357 	EXP 	fixation: autoDraw = False
+145.3357 	EXP 	text_2: autoDraw = False
+145.9366 	EXP 	New trial (rep=0, index=75): <Trial 75 (75 in rep 0) data={'words': 'important', 'number_of_letters': 9, 'corrAns': 'right', 'thisN': 75, 'thisTrialN': 75, 'thisRepN': 0}>
+145.9399 	DATA 	Keypress: left
+145.9522 	EXP 	fixation: autoDraw = False
+145.9522 	EXP 	text: autoDraw = False
+145.9522 	EXP 	text_2: autoDraw = False
+145.9522 	EXP 	text: height = 0.05
+145.9522 	EXP 	text: height = 0.05
+145.9522 	EXP 	text: height = 0.05
+145.9522 	EXP 	text: text = 'important'
+145.9522 	EXP 	fixation: autoDraw = True
+145.9522 	EXP 	text_2: autoDraw = True
+146.9528 	INFO 	Keyboard events cleared
+146.9522 	EXP 	fixation: autoDraw = False
+146.9522 	EXP 	text: autoDraw = True
+146.9522 	EXP 	text_2: autoDraw = False
+147.6035 	EXP 	New trial (rep=0, index=76): <Trial 76 (76 in rep 0) data={'words': 'shoule', 'number_of_letters': 6, 'corrAns': 'left', 'thisN': 76, 'thisTrialN': 76, 'thisRepN': 0}>
+147.6067 	DATA 	Keypress: right
+147.6189 	EXP 	fixation: autoDraw = False
+147.6189 	EXP 	text: autoDraw = False
+147.6189 	EXP 	text_2: autoDraw = False
+147.6189 	EXP 	text: height = 0.05
+147.6189 	EXP 	text: height = 0.05
+147.6189 	EXP 	text: height = 0.05
+147.6189 	EXP 	text: text = 'shoule'
+147.6189 	EXP 	fixation: autoDraw = True
+147.6189 	EXP 	text_2: autoDraw = True
+148.6191 	INFO 	Keyboard events cleared
+148.6186 	EXP 	fixation: autoDraw = False
+148.6186 	EXP 	text: autoDraw = True
+148.6186 	EXP 	text_2: autoDraw = False
+149.2701 	EXP 	New trial (rep=0, index=77): <Trial 77 (77 in rep 0) data={'words': 'wunt', 'number_of_letters': 4, 'corrAns': 'left', 'thisN': 77, 'thisTrialN': 77, 'thisRepN': 0}>
+149.2734 	DATA 	Keypress: left
+149.2856 	EXP 	fixation: autoDraw = False
+149.2856 	EXP 	text: autoDraw = False
+149.2856 	EXP 	text_2: autoDraw = False
+149.2856 	EXP 	text: height = 0.05
+149.2856 	EXP 	text: height = 0.05
+149.2856 	EXP 	text: height = 0.05
+149.2856 	EXP 	text: text = 'wunt'
+149.2856 	EXP 	fixation: autoDraw = True
+149.2856 	EXP 	text_2: autoDraw = True
+150.2696 	INFO 	Keyboard events cleared
+150.2690 	EXP 	text: autoDraw = True
+150.2856 	EXP 	fixation: autoDraw = False
+150.2856 	EXP 	text_2: autoDraw = False
+150.9869 	EXP 	New trial (rep=0, index=78): <Trial 78 (78 in rep 0) data={'words': 'become', 'number_of_letters': 6, 'corrAns': 'right', 'thisN': 78, 'thisTrialN': 78, 'thisRepN': 0}>
+150.9911 	DATA 	Keypress: left
+151.0024 	EXP 	fixation: autoDraw = False
+151.0024 	EXP 	text: autoDraw = False
+151.0024 	EXP 	text_2: autoDraw = False
+151.0024 	EXP 	text: height = 0.05
+151.0024 	EXP 	text: height = 0.05
+151.0024 	EXP 	text: height = 0.05
+151.0024 	EXP 	text: text = 'become'
+151.0024 	EXP 	fixation: autoDraw = True
+151.0024 	EXP 	text_2: autoDraw = True
+152.0024 	INFO 	Keyboard events cleared
+152.0018 	EXP 	fixation: autoDraw = False
+152.0018 	EXP 	text: autoDraw = True
+152.0018 	EXP 	text_2: autoDraw = False
+152.7700 	EXP 	New trial (rep=0, index=79): <Trial 79 (79 in rep 0) data={'words': 'out', 'number_of_letters': 3, 'corrAns': 'right', 'thisN': 79, 'thisTrialN': 79, 'thisRepN': 0}>
+152.7730 	DATA 	Keypress: right
+152.7856 	EXP 	fixation: autoDraw = False
+152.7856 	EXP 	text: autoDraw = False
+152.7856 	EXP 	text_2: autoDraw = False
+152.7856 	EXP 	text: height = 0.05
+152.7856 	EXP 	text: height = 0.05
+152.7856 	EXP 	text: height = 0.05
+152.7856 	EXP 	text: text = 'out'
+152.7856 	EXP 	fixation: autoDraw = True
+152.7856 	EXP 	text_2: autoDraw = True
+153.7694 	INFO 	Keyboard events cleared
+153.7688 	EXP 	text: autoDraw = True
+153.7851 	EXP 	fixation: autoDraw = False
+153.7851 	EXP 	text_2: autoDraw = False
+154.6754 	DATA 	Keypress: right
+154.6854 	EXP 	fixation: autoDraw = False
+154.6854 	EXP 	text: autoDraw = False
+154.6854 	EXP 	text_2: autoDraw = False
+154.6854 	EXP 	text_3: autoDraw = True
+155.6853 	EXP 	text_3: autoDraw = False
+155.6853 	EXP 	text_3: autoDraw = False
+155.6854 	EXP 	soloprojectlexical: status = STOPPED
+155.7192 	INFO 	saved data to 'C:\\Users\\kashy\\OneDrive\\Desktop\\SoloProject\\data/542811_soloprojectlexical_2024-12-04_16h31.19.242.csv'
+155.7223 	INFO 	saved data to C:\Users\kashy\OneDrive\Desktop\SoloProject\data/542811_soloprojectlexical_2024-12-04_16h31.19.242.psydat
+155.9087 	EXP 	window1: mouseVisible = True
